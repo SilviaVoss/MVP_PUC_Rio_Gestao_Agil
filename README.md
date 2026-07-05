@@ -8,7 +8,7 @@ App de moda circular infantil por assinatura. Famílias recebem um pacote de rou
 
 ## Backlog e Sprints
 
-Disponível no arquivo `GiraVolta_Jira.pdf`, incluindo histórias de usuário, critérios de aceitação, DoR e DoD.
+Disponível no arquivo `product_sprint_backlog.pdf`, incluindo planejamento da sprint, histórias de usuário, critérios de aceitação, backlog, DoR e DoD.
 
 ## Protótipos de Interface
 
