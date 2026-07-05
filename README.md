@@ -16,4 +16,4 @@ Imagens disponíveis no diretório `/wireframes`.
 
 ## Vídeo de Apresentação
 
-🎥 *(link)*
+🎥 [(link)](https://www.loom.com/share/2cc00d2056344783b27622ce2d880e71)
